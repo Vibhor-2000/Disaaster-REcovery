@@ -1,4 +1,4 @@
-#Multi-Cloud Disaster Recovery Project
+# Multi-Cloud Disaster Recovery Project
 
 Multi-Cloud Disaster Recovery Project: Flask + MySQL Application
 Table of Contents
